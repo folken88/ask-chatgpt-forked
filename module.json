@@ -1,11 +1,11 @@
 {
   "id": "ask-chatgpt",
-  "title": "Ask ChatGPT",
+  "title": "Ask-GPT Updated",
   "description": "Customizable ChatGPT integration",
-  "version": "#{VERSION}#",
+  "version": "2.0",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10.291"
+    "minimum": "11",
+    "verified": "11.0"
   },
   "authors": [
     {
