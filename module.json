@@ -1,15 +1,15 @@
 {
-  "id": "ask-chatgpt",
-  "title": "Ask-GPT Updated",
-  "description": "Customizable ChatGPT integration",
-  "version": "2.0",
+  "id": "ask-chatgpt-forked",
+  "title": "Ask ChatGPT (Forked)",
+  "description": "Customizable ChatGPT integration with enhanced features",
+  "version": "2.0.0001",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11.0"
+    "minimum": "10",
+    "verified": "11"
   },
   "authors": [
     {
-      "name": "Nikolay Vizovitin"
+      "name": "Tobias Merriman"
     }
   ],
   "esmodules": [
@@ -18,10 +18,9 @@
   "styles": [
     "styles/module.css"
   ],
-  "url": "#{URL}#",
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#",
-  "changelog": "#{URL}#/blob/master/CHANGELOG.md",
+  "url": "https://github.com/tmerriman/foundryvtt-ask-chatgpt",
+  "manifest": "https://raw.githubusercontent.com/tmerriman/foundryvtt-ask-chatgpt/main/module.json",
+  "download": "https://github.com/tmerriman/foundryvtt-ask-chatgpt/archive/refs/tags/2.0.0001.zip",
   "license": "LICENSE",
   "readme": "README.md"
 }
